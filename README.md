@@ -1,18 +1,7 @@
-# Gfgg_OS-Wii
+# The Land of Gfgg
 
-Do you just wish that you could use the Wii Internet Channel once again, with crappy HTML, little to no CSS, and Javascript right from ChatGPT?
+Welcome to my HTML site. Here I put my HTML sites, and links to other accounts such as YouTube, Scratch, Itch.io, etc.
 
-Well, now you can!
+I use some very crappy CSS, so it looks pretty bad.
 
-Gfgg OS, Wii Internet Browser Edition
-
-FEATURING:
-
-- RANDOMISER
-- CREDITS
-- COPYRIGHT DATE
-- LINKS TO HTML STUFF THAT I MADE
-- AND MORE TO COME!
-
-
-This is mostly just a joke project. I do want to get my own software working on the Wii, and I can't compile C apps for some reason, so this is my best bet.
+If you have any recommendations, let me know.
