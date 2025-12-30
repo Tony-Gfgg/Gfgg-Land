@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Unit Converter v1.0</title>
+        <link rel="stylesheet" href="index-style.css">
+    </head>
+    <body>
+        <button><a href="../unit-converter.html">Back</a></button>
+        <h1>Unit Converter</h1>
+        <div>
+        <input id="number" type="number" placeholder="Number"><br>
+        <select id="convert" name="convert-opton">
+            <optgroup label="Length">
+                <option value="MtK">Miles to Kilometers</option>
+                <option value="KtM">Kilometers to Miles</option>
+            </optgroup>
+            <optgroup label="Temperature">
+                <option value="CtF">Celsius to Fahrenheit</option>
+                <option value="FtC">Fahrenheit to Celsius</option>
+            </optgroup>
+        </select><br>
+        <button onclick="convert()">Convert</button>
+        <p id="result">Result: </p>
+        </div>
+        <script src="script.js"></script>
+    </body>
+</html>

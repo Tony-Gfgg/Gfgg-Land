@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>Gfgg OS - Test3-1</title>
+    </head>
+<body>
+    <script>
+        console.log("System Booted")
+    </script>
+    <button><a href="../../../gfgg-os.html">Back</a></button>
+    <h1 style="color:blue; background-color:darkgray">Gfgg OS - Test3-1</h1>
+    <h3 style="color:red">App Shortcuts</h3>
+    <button><a href="apps.html">Testing Apps</a></button>
+    <button><a href="photos.html">Photos</a></button>
+    <button><a href="browser.html">Browser</a></button>
+
+    <script>
+        function updateTime() {
+            const clock = document.getElementById('clock');
+            const now = new Date();
+            clock.innerHTML = now.toLocaleTimeString();
+        }
+        setInterval(updateTime, 1000);  // Update every second
+    </script>
+      
+      <h3>Current Time: <span id="clock"></span></h3>
+      
+</body>
+</html>

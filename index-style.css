@@ -1,0 +1,37 @@
+body {
+    background-color: lightskyblue;
+    color: white;
+    background-image: url(Frutiger.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+button {
+    background-color: limegreen;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+div {
+    background-color: gray;
+    display: inline-block;
+    padding: 10px 10px 10px 10px;
+    align-self: center;
+    text-align: center;
+}
+
+.retro {
+    background-color: black;
+}
+
+.list {
+    text-align: left;
+}
+
+table, th, tr, td {
+    border: 2px black solid;
+    border-collapse: collapse;
+}

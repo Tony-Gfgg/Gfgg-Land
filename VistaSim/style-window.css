@@ -1,0 +1,28 @@
+.top-bar {
+    background-color: lightskyblue;
+    padding: 10px 10px 10px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.button-window {
+    background-color: skyblue;
+}
+
+.app {
+    background-color: lightblue;
+    display: block;
+    padding: 10px 10px 750px 10px;
+}
+
+div {
+    border: 5px solid blue;
+    border-collapse: collapse;
+}
+
+.window-buttons {
+    display: flex;
+    gap: 5px;
+    border: 0px;
+}
