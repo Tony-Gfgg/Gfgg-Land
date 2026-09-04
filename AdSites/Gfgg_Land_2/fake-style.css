@@ -1,7 +1,7 @@
 body {
     background-color: lightskyblue;
     color: white;
-    background-image: url(Frutiger.jpg);
+    background-image: url(../../Frutiger.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
