@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    background-color: lightskyblue;
+    color: white;
+    background-image: url(Z+.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+div {
+    background-color: gray;
+    padding: 5px;
+    margin: 5px;
+    display: inline-block;
+}
